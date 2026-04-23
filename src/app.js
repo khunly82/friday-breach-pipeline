@@ -11,5 +11,3 @@ export function direBonjour(nom) {
   return `Bonjour, ${nom} !`;
 
 }
-
-module.exports = { additionner, direBonjour };
