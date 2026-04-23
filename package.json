@@ -1,0 +1,15 @@
+{
+  "name": "friday-breach-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Khun LY",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
